@@ -26,9 +26,9 @@ This is personal unified block host filtered version (mssvpn) contributing for [
 | AbiDarwishList | [Link](https://raw.githubusercontent.com/abidarwish/helium/main/AbiDarwishList.txt) | [Link](https://#) |
 | MSSPornBlockList | [Link](https://raw.githubusercontent.com/mssvpn/block/main/porn.txt) | [Link](https://#) |
 | MSSBlockList | [Link](https://raw.githubusercontent.com/mssvpn/block/main/blocklist.txt) | [Link](https://#) |
-| BlocklistProjectTorrent | [Link](https://blocklistproject.github.io/Lists/torrent.txt) | [Link](https://#) |
 | SM443TorrentTrackers | [Link](https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-trackres.txt) | [Link](https://#) |
 | SM443TorrentWebsites | [Link](https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torrent-websites.txt) | [Link](https://#) |
+| BlocklistProjectTorrent | [Link](https://blocklistproject.github.io/Lists/torrent.txt) | [Link](https://#) |
 | BlocklistProjectTracker | [Link](https://blocklistproject.github.io/Lists/tracking.txt) | [Link](https://#) |
 | BlocklistProjectRedirect | [Link](https://blocklistproject.github.io/Lists/redirect.txt) | [Link](https://#) |
 | BlocklistProjectGambling | [Link](https://blocklistproject.github.io/Lists/gambling.txt) | [Link](https://#) |
