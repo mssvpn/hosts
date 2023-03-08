@@ -2,7 +2,7 @@
 
 This is personal unified block host filtered version (mssvpn) contribution for [Helium Project](https://github.com/abidarwish/helium) by AbiDarwish.
 
-# List of All Hosts (Multiple Provider) - Active Host Filtered
+# List of All Hosts - Active Host Filtered
 | Original Sources | Raw Host | Active Host Link |
 | ---------------- | :------: | :--------------: |
 | AdAway | [Link](https://adaway.org/hosts.txt) | [Link](https://raw.githubusercontent.com/mssvpn/hosts/main/AdAway_Active.txt) |
