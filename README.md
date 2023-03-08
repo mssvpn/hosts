@@ -35,5 +35,3 @@ This is personal unified block host filtered version (mssvpn) contributing for [
 
 # Management
 This repo will update weekly based to get active host from available provider.
-.
-
