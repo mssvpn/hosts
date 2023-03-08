@@ -5,4 +5,4 @@ This is personal unified block host filtered version mssvpn contributing for Hel
 # List of All Hosts (Multiple Provider) - Active Host Filtered
 | Original Sources | Raw Host | Active Host Link | Unique Domains |
 | ---------------- | :------: | :--------------: | :------------: |
-AdAway | [link](https://adaway.org/hosts.txt) | [link](https://adaway.org/hosts.txt) | 186,427 
+AdAway | [Link](https://adaway.org/hosts.txt) | [Link](https://adaway.org/hosts.txt) | 186,427 
