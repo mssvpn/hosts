@@ -460,3 +460,10 @@
 0.0.0.0 zolrqw.palatlaldate.com
 0.0.0.0 zerowasteinitiative.com
 0.0.0.0 yhdshop.com
+0.0.0.0 bigappboi.com
+0.0.0.0 expresscourier.delivery
+0.0.0.0 frankgreenauonline.shop
+0.0.0.0 injustice.site
+0.0.0.0 steanmconnmunnity.com
+0.0.0.0 tesla4eth.net
+0.0.0.0 virtuectech.com

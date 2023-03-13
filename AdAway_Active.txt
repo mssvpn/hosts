@@ -1,5 +1,4 @@
 0.0.0.0 localhost
-0.0.0.0 localhost
 0.0.0.0 sync.1rx.io
 0.0.0.0 crash.163.com
 0.0.0.0 tag.1rx.io
@@ -6597,3 +6596,5 @@
 0.0.0.0 log-collector.svctr.zynga.com
 0.0.0.0 beacon.ztgame.com
 0.0.0.0 zgsdk.zhugeio.com
+0.0.0.0 ads.dofunapps.com
+0.0.0.0 rightmoveanalytics.co.uk

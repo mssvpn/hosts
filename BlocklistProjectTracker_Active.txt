@@ -11818,3 +11818,8 @@
 0.0.0.0 songlytics.net
 0.0.0.0 mplusps.ims.vodafone.com
 0.0.0.0 mpluswf.ims.vodafone.com
+0.0.0.0 adsurity.com
+0.0.0.0 ivanie.com
+0.0.0.0 ligadx.com
+0.0.0.0 p.pxl2015x1.com
+0.0.0.0 yldbt.com

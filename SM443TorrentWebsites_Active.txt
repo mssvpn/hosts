@@ -2718,3 +2718,12 @@
 0.0.0.0 zooqle.p4y.space
 0.0.0.0 zooqle.unblocked.llc
 0.0.0.0 zoozle.org
+0.0.0.0 a.leopard-raws.org
+0.0.0.0 finbytes.org
+0.0.0.0 kickmedown.com
+0.0.0.0 partis.si
+0.0.0.0 retracker.spark-rostov.ru
+0.0.0.0 subtracker.net
+0.0.0.0 t.jaekr.sh
+0.0.0.0 tr.kxmp.cf
+0.0.0.0 tracker.btsync.gq

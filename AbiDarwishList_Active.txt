@@ -347,7 +347,6 @@
 0.0.0.0 87av.com
 0.0.0.0 8wsm.com
 0.0.0.0 9anime.to
-0.0.0.0 acg.rip
 0.0.0.0 acgnx.se
 0.0.0.0 acglover.top
 0.0.0.0 8kun.top
@@ -366,7 +365,6 @@
 0.0.0.0 androidrookies.com
 0.0.0.0 alicili.org
 0.0.0.0 anidex.info
-0.0.0.0 anidex.moe
 0.0.0.0 anilinkz.to
 0.0.0.0 animebytes.tv
 0.0.0.0 androidkino.org
@@ -409,17 +407,14 @@
 0.0.0.0 bbs.itzmx.com
 0.0.0.0 beatrice-raws.org
 0.0.0.0 bibliotik.me
-0.0.0.0 big-boss-tracker.net
 0.0.0.0 bigtracker.org
 0.0.0.0 bitmetv.org
 0.0.0.0 bitnova.info
 0.0.0.0 bigfangroup.org
 0.0.0.0 bitru.org
-0.0.0.0 bitport.io
 0.0.0.0 bestfreestreaming.com
 0.0.0.0 bitspyder.net
 0.0.0.0 bestsportstreaming.com
-0.0.0.0 biztorrents.com
 0.0.0.0 awesome-hd.me
 0.0.0.0 blackboxrepack.com
 0.0.0.0 blog.jxzmz.org
@@ -432,10 +427,8 @@
 0.0.0.0 bt.acg.gg
 0.0.0.0 boatbay.club
 0.0.0.0 boatairproxy.org
-0.0.0.0 bt.edwardk.info
 0.0.0.0 bludv.com
 0.0.0.0 bt.etree.org
-0.0.0.0 bt.ali213.net
 0.0.0.0 bt4g.org
 0.0.0.0 btbbt.cc
 0.0.0.0 btbtw.com
@@ -443,7 +436,6 @@
 0.0.0.0 brotorrent.net
 0.0.0.0 bt.orzx.im
 0.0.0.0 btdb.io
-0.0.0.0 bt.3dmgame.com
 0.0.0.0 btdoor.cc
 0.0.0.0 bt5000.com
 0.0.0.0 btdigg.org
@@ -477,7 +469,6 @@
 0.0.0.0 city9x.com
 0.0.0.0 comandotorrents.com
 0.0.0.0 btbtt.com
-0.0.0.0 concen.org
 0.0.0.0 comandotorrents.org
 0.0.0.0 cpabien.cx
 0.0.0.0 crotorrents.com
@@ -488,7 +479,6 @@
 0.0.0.0 d-addicts.com
 0.0.0.0 cruzing.xyz
 0.0.0.0 ddgroupclub.win
-0.0.0.0 deluge-torrent.org
 0.0.0.0 demonoid.is
 0.0.0.0 convivea.com
 0.0.0.0 demons-eye.me
@@ -615,7 +605,6 @@
 0.0.0.0 gtorrent.org
 0.0.0.0 hd4.xyz
 0.0.0.0 hdonline.eu
-0.0.0.0 hdreactor.org
 0.0.0.0 hdencode.com
 0.0.0.0 gtorrent.ru
 0.0.0.0 hdmonkey.org
@@ -708,10 +697,8 @@
 0.0.0.0 magnet4you.me
 0.0.0.0 magnetdl.com
 0.0.0.0 magnetfox.org
-0.0.0.0 magnetoo.io
 0.0.0.0 mac-torrents.com
 0.0.0.0 livesx.eu
-0.0.0.0 mediaclub.tv
 0.0.0.0 limetorrents.asia
 0.0.0.0 lookmovie.ag
 0.0.0.0 mamahd.org
@@ -722,7 +709,6 @@
 0.0.0.0 megatorrentshd.net
 0.0.0.0 mayi.tw
 0.0.0.0 meusfilmestorrents.com
-0.0.0.0 milliontorrent.pl
 0.0.0.0 mininova.org
 0.0.0.0 mgnet.me
 0.0.0.0 mejortorrentt.net
@@ -731,7 +717,6 @@
 0.0.0.0 mejortorrent.com
 0.0.0.0 metal-tracker.com
 0.0.0.0 miobt.com
-0.0.0.0 mixfiend.com
 0.0.0.0 moe4sale.in
 0.0.0.0 mohmo.net
 0.0.0.0 mitorrent.org
@@ -874,7 +859,6 @@
 0.0.0.0 proxyproxy.fi
 0.0.0.0 psarips.com
 0.0.0.0 publichd.se
-0.0.0.0 qbittorrent.org
 0.0.0.0 rarbg.cc
 0.0.0.0 rarbg.com
 0.0.0.0 pte.nu
@@ -959,7 +943,6 @@
 0.0.0.0 spanishtracker.com
 0.0.0.0 solidtorrents.net
 0.0.0.0 streettorrent.pl
-0.0.0.0 stremio.com
 0.0.0.0 sub.kamigami.org
 0.0.0.0 sukebei.nyaa.si
 0.0.0.0 sport-video.org.ua
@@ -1046,7 +1029,6 @@
 0.0.0.0 torrent-epta.ru
 0.0.0.0 torrent-pirat.com
 0.0.0.0 torrent.movie
-0.0.0.0 torrent.mp3quran.net
 0.0.0.0 torrent-windows.net
 0.0.0.0 torrent-tracks.com
 0.0.0.0 torrent-tracks.net
@@ -1139,7 +1121,6 @@
 0.0.0.0 torrents.to
 0.0.0.0 torrentsnack.com
 0.0.0.0 torrentspy.com
-0.0.0.0 torrentsmd.com
 0.0.0.0 torrentus.si
 0.0.0.0 torrents.ohys.net
 0.0.0.0 torrentvery.com
@@ -1201,7 +1182,6 @@
 0.0.0.0 unblocktheship.org
 0.0.0.0 unblockit.top
 0.0.0.0 uniondht.org
-0.0.0.0 utorrent.com
 0.0.0.0 uniteam.co
 0.0.0.0 ukpiratebayproxy.com
 0.0.0.0 utorrent.li
@@ -1225,7 +1205,6 @@
 0.0.0.0 watchcartoononline.io
 0.0.0.0 webhd.co
 0.0.0.0 watchcartoononline.com
-0.0.0.0 webtorrent.io
 0.0.0.0 worldsrc.org
 0.0.0.0 x1337x.eu
 0.0.0.0 w14.monkrus.ws
@@ -1292,3 +1271,10 @@
 0.0.0.0 zhongzishenqi.com
 0.0.0.0 zombtracker.the-zomb.com
 0.0.0.0 yts.ws
+0.0.0.0 a.leopard-raws.org
+0.0.0.0 finbytes.org
+0.0.0.0 ns-1.x-fins.com
+0.0.0.0 retracker.spark-rostov.ru
+0.0.0.0 tracker.corpscorp.online
+0.0.0.0 tracker.trackton.ga
+0.0.0.0 glotorrents.pw
