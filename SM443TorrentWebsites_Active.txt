@@ -554,7 +554,6 @@
 0.0.0.0 dontorrents.org
 0.0.0.0 downrev.net
 0.0.0.0 doxma.com
-0.0.0.0 dramago.com
 0.0.0.0 dragons-den.net
 0.0.0.0 dragons-dungeon.com
 0.0.0.0 dreamingtree.org
@@ -1325,7 +1324,6 @@
 0.0.0.0 pron4.me
 0.0.0.0 proxy247.art
 0.0.0.0 proxybay.bz
-0.0.0.0 proxybay.github.io
 0.0.0.0 proxahoy.link
 0.0.0.0 proxtpb.art
 0.0.0.0 proxifiedpiratebay.org
@@ -2076,7 +2074,6 @@
 0.0.0.0 trackeri2.rarbg.com
 0.0.0.0 trackerturk.biz
 0.0.0.0 trackeri4.rarbg.com
-0.0.0.0 trakx.herokuapp.com
 0.0.0.0 trackermx.com
 0.0.0.0 trader.speed-share.org
 0.0.0.0 trancetraffic.com

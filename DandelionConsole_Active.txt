@@ -1,5 +1,4 @@
 0.0.0.0 telemetry-console.api.playstation.com
-0.0.0.0 github.com
 0.0.0.0 127.0.0.1
 0.0.0.0 aauth-lp1.ndas.srv.nintendo.net
 0.0.0.0 nsx-e.np.dl.playstation.net

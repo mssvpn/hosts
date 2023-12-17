@@ -6118,7 +6118,6 @@
 0.0.0.0 smashupblockers.info
 0.0.0.0 xyzproxy.gq
 0.0.0.0 apexshield.com
-0.0.0.0 web-fast.com
 0.0.0.0 bigprox.co.cc
 0.0.0.0 acessototal.net
 0.0.0.0 xtbuy.com
@@ -8355,7 +8354,6 @@
 0.0.0.0 fuim.net
 0.0.0.0 famous5.com
 0.0.0.0 roonyx.com
-0.0.0.0 todayfast.com
 0.0.0.0 dailywebproxies.com
 0.0.0.0 forexunblock.info
 0.0.0.0 managed.phoenixitjobs.com
@@ -8976,7 +8974,6 @@
 0.0.0.0 arrestoo.cf
 0.0.0.0 auce.info
 0.0.0.0 surfme.imprecise.info
-0.0.0.0 unblock.achievefast.com
 0.0.0.0 proxy-list.org
 0.0.0.0 propertybazzar.com
 0.0.0.0 starcrumb.com
@@ -10322,7 +10319,6 @@
 0.0.0.0 wowblood.com
 0.0.0.0 win.solution-llc.com
 0.0.0.0 sprode.info
-0.0.0.0 fakefast.com
 0.0.0.0 maxproxy.org
 0.0.0.0 rumforex.co.cc
 0.0.0.0 aplusproxy.com
@@ -15071,7 +15067,6 @@
 0.0.0.0 aisolutions.ch
 0.0.0.0 germantrip.tk
 0.0.0.0 hide-in-quick.co.cc
-0.0.0.0 birdsflyfast.com
 0.0.0.0 eiuforex.co.cc
 0.0.0.0 xroxy.com
 0.0.0.0 forextrading8.co.cc
@@ -15782,7 +15777,6 @@
 0.0.0.0 contentproxxy.co.cc
 0.0.0.0 feelingtheblanks.com
 0.0.0.0 forbiz.ru
-0.0.0.0 proxy-fast.com
 0.0.0.0 ikhebdorst.nl
 0.0.0.0 fleuristeenligne.com
 0.0.0.0 pstrats.net
@@ -17729,7 +17723,6 @@
 0.0.0.0 hurstysurf.co.cc
 0.0.0.0 proxy-a.com
 0.0.0.0 armogo.com
-0.0.0.0 github.com
 0.0.0.0 veva.info
 0.0.0.0 proxy.sm-s.de
 0.0.0.0 unblock.net

@@ -16,7 +16,6 @@
 0.0.0.0 9.rarbg.to
 0.0.0.0 960303.xyz
 0.0.0.0 94-227-232-84.access.telenet.be
-0.0.0.0 abir0dev.github.io
 0.0.0.0 academic-p2p.appspot.com
 0.0.0.0 aarsen.me
 0.0.0.0 aaa.army
@@ -115,7 +114,6 @@
 0.0.0.0 download.nerocloud.me
 0.0.0.0 dpiui.reedlan.com
 0.0.0.0 dex.email
-0.0.0.0 ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 0.0.0.0 drumkitx.com
 0.0.0.0 dylan-park.com
 0.0.0.0 eddie4.nl
@@ -537,7 +535,6 @@
 0.0.0.0 tracker6.dler.org
 0.0.0.0 trackerb.jonaslsa.com
 0.0.0.0 trackers.mlsub.net
-0.0.0.0 trakx.herokuapp.com
 0.0.0.0 trackers.ydns.eu
 0.0.0.0 trun.tom.ru
 0.0.0.0 tsundere.pw
@@ -586,7 +583,6 @@
 0.0.0.0 x7x.up.railway.app
 0.0.0.0 www.nekos96.xyz
 0.0.0.0 xwt-classics.net
-0.0.0.0 xtremex.herokuapp.com
 0.0.0.0 www.zhaohu.love
 0.0.0.0 xxxtor.com
 0.0.0.0 xarcotic.com

@@ -2660,7 +2660,6 @@
 0.0.0.0 notyourip.com
 0.0.0.0 mkt7443.com
 0.0.0.0 trendmd.s3.amazonaws.com
-0.0.0.0 vs.hotstar.com
 0.0.0.0 mkt9262.com
 0.0.0.0 suitableplan.co.cc
 0.0.0.0 wd.adcolony.com
@@ -10533,7 +10532,6 @@
 0.0.0.0 mkt5710.com
 0.0.0.0 api.erabu.sony.tv
 0.0.0.0 rownforex.co.cc
-0.0.0.0 fp-analytics.hotstar.com
 0.0.0.0 sse.apxor.com
 0.0.0.0 chatroutereast.inq.com
 0.0.0.0 mkt7274.com
@@ -10966,7 +10964,6 @@
 0.0.0.0 proxied.net
 0.0.0.0 renameproxy.co.cc
 0.0.0.0 rightly.org
-0.0.0.0 segment.hotstar.com
 0.0.0.0 no-egmont.cdn.videoplaza.tv
 0.0.0.0 mkt7717.com
 0.0.0.0 proxy.sylvek.info
@@ -11647,7 +11644,6 @@
 0.0.0.0 fr.exoclick.com
 0.0.0.0 h8m.net
 0.0.0.0 windsforex.co.cc
-0.0.0.0 service.hotstar.com
 0.0.0.0 alldouble.com
 0.0.0.0 mkt8872.com
 0.0.0.0 mkt8024.com
@@ -13157,7 +13153,6 @@
 0.0.0.0 click.inplayable.com
 0.0.0.0 opensites.24.eu
 0.0.0.0 strana-rf.mirtesen.ru
-0.0.0.0 birdsflyfast.com
 0.0.0.0 mkt5130.com
 0.0.0.0 dnbtracker.org
 0.0.0.0 webproxyonline.info
@@ -13401,7 +13396,6 @@
 0.0.0.0 madeo.co.cc
 0.0.0.0 ifaq.info
 0.0.0.0 microxy.com
-0.0.0.0 adtech.nflximg.net
 0.0.0.0 mkt6859.com
 0.0.0.0 s1p.info
 0.0.0.0 acgroup.in
@@ -14706,7 +14700,6 @@
 0.0.0.0 mkt4993.com
 0.0.0.0 api-js.mixpanel.com
 0.0.0.0 insomestuff.co.cc
-0.0.0.0 logs.hotstar.com
 0.0.0.0 mkt8670.com
 0.0.0.0 btkitty.bid
 0.0.0.0 tracker.vulnix.sh
@@ -16053,7 +16046,6 @@
 0.0.0.0 www.1337x.tw
 0.0.0.0 tellme.com
 0.0.0.0 go.netcoresmartech.com
-0.0.0.0 bifrost-api.hotstar.com
 0.0.0.0 bushenba.cn
 0.0.0.0 technorip.com
 0.0.0.0 save-marriage.co.cc
@@ -22346,7 +22338,6 @@
 0.0.0.0 my.alarmsms.com
 0.0.0.0 1luvproxy.cf
 0.0.0.0 louforex.co.cc
-0.0.0.0 metricfast.com
 0.0.0.0 mkt7641.com
 0.0.0.0 ci.adx1.com
 0.0.0.0 privacycore.info
@@ -27825,7 +27816,6 @@
 0.0.0.0 ads.olink.pm
 0.0.0.0 as-freesurf-created.co.cc
 0.0.0.0 www.unbounce.com
-0.0.0.0 settings-analytics.hotstar.com
 0.0.0.0 mkt8229.com
 0.0.0.0 domain.caringformom.com
 0.0.0.0 s30331283358.mirtesen.ru
@@ -28533,7 +28523,6 @@
 0.0.0.0 mkt932.com
 0.0.0.0 gowith.g2afse.com
 0.0.0.0 youtorrent.com
-0.0.0.0 maxmind.com
 0.0.0.0 wakizashi.co.cc
 0.0.0.0 btdoor.cc
 0.0.0.0 corp-static.amplitude.com
@@ -28579,7 +28568,6 @@
 0.0.0.0 sbscribeme.com
 0.0.0.0 www.triplelift.com
 0.0.0.0 proxy-software.com
-0.0.0.0 hb-analytics.hotstar.com
 0.0.0.0 mkt3068.com
 0.0.0.0 mkt4297.com
 0.0.0.0 js-agent.newrelic.com
@@ -33638,7 +33626,6 @@
 0.0.0.0 flix360.com
 0.0.0.0 blackipad.co.cc
 0.0.0.0 agv.mirtesen.ru
-0.0.0.0 todayfast.com
 0.0.0.0 time-is-fun.co.cc
 0.0.0.0 jisuyou.cn
 0.0.0.0 analytics.pinterest.com
@@ -36433,7 +36420,6 @@
 0.0.0.0 onebigtorrent.org
 0.0.0.0 vascharabota.mirtesen.ru
 0.0.0.0 prxschool.co.cc
-0.0.0.0 js.maxmind.com
 0.0.0.0 malabarproxy.co.cc
 0.0.0.0 an.yandex.ru
 0.0.0.0 casalemedia.com
@@ -37144,7 +37130,6 @@
 0.0.0.0 www.hongfire.com
 0.0.0.0 monkeyfunky.co.uk
 0.0.0.0 ultimatepro.us
-0.0.0.0 stats.kaltura.com
 0.0.0.0 grek.info
 0.0.0.0 sentry.sec.miui.com
 0.0.0.0 store.am-display.hb.adx1.com
@@ -39461,7 +39446,6 @@
 0.0.0.0 mkt1030.com
 0.0.0.0 badconnect.com
 0.0.0.0 mkt7451.com
-0.0.0.0 analytics.kaltura.com
 0.0.0.0 mediadonuts.go2affise.com
 0.0.0.0 images.taboola.com
 0.0.0.0 kalaydode.widget.criteo.com
@@ -40695,7 +40679,6 @@
 0.0.0.0 14proxy.co.cc
 0.0.0.0 opt-west.media.net
 0.0.0.0 torrentpond.com
-0.0.0.0 events-analytics.hotstar.com
 0.0.0.0 mkt5935.com
 0.0.0.0 mkt8110.com
 0.0.0.0 mkt3684.com

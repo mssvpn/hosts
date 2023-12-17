@@ -2263,7 +2263,6 @@
 0.0.0.0 livestockfeaturenecessary.com
 0.0.0.0 ioxffew.com
 0.0.0.0 tabloidsuggest.com
-0.0.0.0 collector.github.com
 0.0.0.0 realizedoor.com
 0.0.0.0 pushserve.xyz
 0.0.0.0 populr.me
@@ -2551,7 +2550,6 @@
 0.0.0.0 tags.creditkarma.com
 0.0.0.0 mootermedia.com
 0.0.0.0 csrrxwd.com
-0.0.0.0 livestats.kaltura.com
 0.0.0.0 ourgumpu.xyz
 0.0.0.0 d3ahinqqx1dy5v.cloudfront.net
 0.0.0.0 mounct.com
@@ -4262,7 +4260,6 @@
 0.0.0.0 waspishamendbulb.com
 0.0.0.0 amzbtuolwp.com
 0.0.0.0 rtbiq.com
-0.0.0.0 adsfast.com
 0.0.0.0 ads.vtc.vn
 0.0.0.0 dsparking.com
 0.0.0.0 splicky.com
@@ -7392,7 +7389,6 @@
 0.0.0.0 irradiateher.com
 0.0.0.0 leiki.com
 0.0.0.0 ads.vietbao.vn
-0.0.0.0 shopbreakfast.com
 0.0.0.0 nacfuns.com
 0.0.0.0 viapizza.online
 0.0.0.0 tracking2.channeladvisor.com
@@ -9808,7 +9804,6 @@
 0.0.0.0 tracking.etidning.smalandsdagblad.se
 0.0.0.0 soothingglade.com
 0.0.0.0 plyinghygrin.com
-0.0.0.0 levaochbo.compricer.se
 0.0.0.0 bearagriculture.com
 0.0.0.0 stardatis.com
 0.0.0.0 estadisticasgratis.com
@@ -9965,7 +9960,6 @@
 0.0.0.0 replaceroute.com
 0.0.0.0 kbbrptv.xyz
 0.0.0.0 dygtulfe.icu
-0.0.0.0 gist.github.com
 0.0.0.0 galanasorra.com
 0.0.0.0 respireyowl.digital
 0.0.0.0 impenetrableauthorslimbs.com
@@ -10138,7 +10132,6 @@
 0.0.0.0 d1aiciyg0qwvvr.cloudfront.net
 0.0.0.0 crm-cdn.peek-cloppenburg.com
 0.0.0.0 camewiththe.com.ua
-0.0.0.0 dosagebreakfast.com
 0.0.0.0 trubudoll.uno
 0.0.0.0 haltinggold.com
 0.0.0.0 ferict.com
@@ -12769,7 +12762,6 @@
 0.0.0.0 mutomb.com
 0.0.0.0 congestit.com
 0.0.0.0 desigactinific.org
-0.0.0.0 t2.hulu.com
 0.0.0.0 xksqb.com
 0.0.0.0 xfwblpomxc.com
 0.0.0.0 iq.sixaxisllc.com
@@ -13656,7 +13648,6 @@
 0.0.0.0 d3hib26r77jdus.cloudfront.net
 0.0.0.0 napoof.com
 0.0.0.0 tbradshedm.org
-0.0.0.0 bestsafefast.com
 0.0.0.0 hetapus.com
 0.0.0.0 d2g9nmtuil60cb.cloudfront.net
 0.0.0.0 d3m4hp4bp4w996.cloudfront.net
@@ -14333,7 +14324,6 @@
 0.0.0.0 grtaanmdu.com
 0.0.0.0 havegrosho.com
 0.0.0.0 obolaryramees.space
-0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.firedrive.com
 0.0.0.0 letterslamp.online
 0.0.0.0 4rm.de
@@ -14346,7 +14336,6 @@
 0.0.0.0 instantbannercreator.com
 0.0.0.0 acacdn.com
 0.0.0.0 fireworksattendingsordid.com
-0.0.0.0 topbetfast.com
 0.0.0.0 pheselta.net
 0.0.0.0 pass-1234.com
 0.0.0.0 iqmbao.xyz
@@ -15195,7 +15184,6 @@
 0.0.0.0 c-stat.eu
 0.0.0.0 xruolsogwsi.com
 0.0.0.0 affiliate.gameladen.com
-0.0.0.0 ichnaea.netflix.com
 0.0.0.0 rand.com.ru
 0.0.0.0 callousbrake.com
 0.0.0.0 ads-server.mxplay.com
@@ -17077,7 +17065,6 @@
 0.0.0.0 robberyinscription.com
 0.0.0.0 ytimm.com
 0.0.0.0 titanads3.com
-0.0.0.0 d3ward.github.io
 0.0.0.0 impolitefreakish.com
 0.0.0.0 rrentlysearchi.info
 0.0.0.0 scaredstory.com
@@ -17405,7 +17392,6 @@
 0.0.0.0 tracking.ecookie.fr
 0.0.0.0 ulrzovfukgkljw.com
 0.0.0.0 hits.getelevar.com
-0.0.0.0 bfast.com
 0.0.0.0 kenskitscurt.com
 0.0.0.0 cxjrsb.com
 0.0.0.0 v1.wphonelife.com
@@ -17831,7 +17817,6 @@
 0.0.0.0 360yield.com
 0.0.0.0 rauceesh.com
 0.0.0.0 evasiondemandedlearning.com
-0.0.0.0 sanalytics.disneyplus.com
 0.0.0.0 1i8c0f11.de
 0.0.0.0 cryptraffic.de
 0.0.0.0 d2pxbld8wrqyrk.cloudfront.net
@@ -17901,7 +17886,6 @@
 0.0.0.0 analytics.proxer.me
 0.0.0.0 maxun066.top
 0.0.0.0 amazonaws.com
-0.0.0.0 collector-cdn.github.com
 0.0.0.0 broochambitioncopies.com
 0.0.0.0 retireblotch.com
 0.0.0.0 ipinfodb.com
@@ -17996,7 +17980,6 @@
 0.0.0.0 adikteev.com
 0.0.0.0 riletechnicality.com
 0.0.0.0 madsecs.com
-0.0.0.0 wantingernestbreakfast.com
 0.0.0.0 browsiprod.com
 0.0.0.0 q99i1qi6.de
 0.0.0.0 usualt.com
@@ -18380,7 +18363,6 @@
 0.0.0.0 d1kttpj1t6674w.cloudfront.net
 0.0.0.0 srvpub.com
 0.0.0.0 rothermophony.com
-0.0.0.0 gainmoneyfast.com
 0.0.0.0 swensaidohet.com
 0.0.0.0 objectsentrust.com
 0.0.0.0 coutherunlawed.website
@@ -22013,7 +21995,6 @@
 0.0.0.0 mopefrequent.com
 0.0.0.0 illustrateartery.com
 0.0.0.0 widual.com
-0.0.0.0 github.com
 0.0.0.0 leapfaucet.com
 0.0.0.0 d18mealirgdbbz.cloudfront.net
 0.0.0.0 confiscateappellationreason.com
@@ -23740,7 +23721,6 @@
 0.0.0.0 recurseagin.com
 0.0.0.0 ymonetize.com
 0.0.0.0 telingabureaus.top
-0.0.0.0 ichnaea-web.netflix.com
 0.0.0.0 wledconsi.xyz
 0.0.0.0 webspectator.com
 0.0.0.0 dealtbroodconstitutional.com
@@ -24111,7 +24091,6 @@
 0.0.0.0 counter-kostenlos.net
 0.0.0.0 alhypnoom.com
 0.0.0.0 coolingstiffenlegend.com
-0.0.0.0 beacon.netflix.com
 0.0.0.0 sp.jsonline.com
 0.0.0.0 whisperingbadge.com
 0.0.0.0 leadlife.com
@@ -24500,7 +24479,6 @@
 0.0.0.0 ab.servogram.io
 0.0.0.0 meritedgasser.com
 0.0.0.0 flatterscandal.com
-0.0.0.0 nmtracking.netflix.com
 0.0.0.0 smetrics.discover.com
 0.0.0.0 pocitadlo.cz
 0.0.0.0 deficiencyluckrapt.com
@@ -26328,7 +26306,6 @@
 0.0.0.0 script-sh.d2cdm.jp
 0.0.0.0 ewesmedia.com
 0.0.0.0 viidan.com
-0.0.0.0 kalstats.kaltura.com
 0.0.0.0 latelypillar.com
 0.0.0.0 30pk41r1i.de
 0.0.0.0 rc.dxsvr.com
@@ -27967,7 +27944,6 @@
 0.0.0.0 zestywire.com
 0.0.0.0 digitaladvisor.dk
 0.0.0.0 dm7gsepi27zsx.cloudfront.net
-0.0.0.0 customerevents.netflix.com
 0.0.0.0 smi24.kz
 0.0.0.0 goodgamesmanship.com
 0.0.0.0 d2oxs0429n9gfd.cloudfront.net
@@ -28373,7 +28349,6 @@
 0.0.0.0 loolowhy.com
 0.0.0.0 z929.fuelfix.com
 0.0.0.0 tawdryson.com
-0.0.0.0 metcon.hulu.com
 0.0.0.0 cueyetwee.site
 0.0.0.0 cuberoot.co
 0.0.0.0 adreactor.com
@@ -30014,7 +29989,6 @@
 0.0.0.0 francetobaccotrading.com
 0.0.0.0 cakeprofessionally.com
 0.0.0.0 lstonorallantyne.com
-0.0.0.0 presentationtracking.netflix.com
 0.0.0.0 bnhxxj.xyz
 0.0.0.0 fondnessbrokestreet.com
 0.0.0.0 bw95vpjda.ru
@@ -30059,7 +30033,6 @@
 0.0.0.0 alargeredrubygsw.com
 0.0.0.0 kinoaction.ru
 0.0.0.0 tukulordimera.com
-0.0.0.0 logs.netflix.com
 0.0.0.0 zt2088.com
 0.0.0.0 comfreeads.com
 0.0.0.0 residenceseeingstanding.com
@@ -30380,7 +30353,6 @@
 0.0.0.0 mindamender.com
 0.0.0.0 sptrkr.com
 0.0.0.0 content.livesportmedia.eu
-0.0.0.0 metricfast.com
 0.0.0.0 swingslip.com
 0.0.0.0 collector-analytics.efigence.com
 0.0.0.0 qinkuai.top
@@ -33903,7 +33875,6 @@
 0.0.0.0 d1twn22x8kvw17.cloudfront.net
 0.0.0.0 eogaeapolaric.com
 0.0.0.0 barbarousnerve.com
-0.0.0.0 pixel.ipinfo.io
 0.0.0.0 fksnk.com
 0.0.0.0 unbecominghall.com
 0.0.0.0 onesuns.com
@@ -34147,7 +34118,6 @@
 0.0.0.0 warnwing.com
 0.0.0.0 powjoui.com
 0.0.0.0 tracker.myyschool.xyz
-0.0.0.0 t-ak.hulu.com
 0.0.0.0 cuchpfvsk.xyz
 0.0.0.0 oneclickpic.net
 0.0.0.0 midas-network.com
@@ -34259,7 +34229,6 @@
 0.0.0.0 experienceeggs.com
 0.0.0.0 bonuscontract.com
 0.0.0.0 extractforgiveness.com
-0.0.0.0 ping-fast.com
 0.0.0.0 ga-bq-py-1.appspot.com
 0.0.0.0 evours.com
 0.0.0.0 shadeship.com
@@ -35720,7 +35689,6 @@
 0.0.0.0 1tds26q95.de
 0.0.0.0 exhauststreak.com
 0.0.0.0 d17tqr44y57o31.cloudfront.net
-0.0.0.0 vortex.hulu.com
 0.0.0.0 oscism.com
 0.0.0.0 stated.io
 0.0.0.0 eolcdn.com
@@ -38377,7 +38345,6 @@
 0.0.0.0 herdethi.net
 0.0.0.0 283.laobanfa.com
 0.0.0.0 iwpswvi.com
-0.0.0.0 c-api-bit.shopeemobile.com
 0.0.0.0 aujooxoo.com
 0.0.0.0 newsunads.com
 0.0.0.0 stats.zotabox.com
@@ -39527,7 +39494,6 @@
 0.0.0.0 fourfork.com
 0.0.0.0 ban-host.ru
 0.0.0.0 tapnetwork.ru
-0.0.0.0 analytics.kaltura.com
 0.0.0.0 aralomomolachan.com
 0.0.0.0 lgtdkpfnor.com
 0.0.0.0 uskoie.xyz

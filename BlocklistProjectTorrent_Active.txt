@@ -475,7 +475,6 @@
 0.0.0.0 www.torrentvault.org
 0.0.0.0 sifara.com
 0.0.0.0 torrentesx.com
-0.0.0.0 github.com
 0.0.0.0 tuxdistro.com
 0.0.0.0 deamonbytes.net
 0.0.0.0 www.turktorrent.biz

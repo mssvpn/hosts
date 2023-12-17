@@ -1,6 +1,5 @@
 0.0.0.0 open.oneplus.net
 0.0.0.0 advertising-api-eu.amazon.com
-0.0.0.0 d3ward.github.io
 0.0.0.0 script.hotjar.com
 0.0.0.0 advice-ads.s3.amazonaws.com
 0.0.0.0 static.media.net
@@ -82,7 +81,6 @@
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 partnerads.ysm.yahoo.com
-0.0.0.0 github.com
 0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 metrika.yandex.ru
 0.0.0.0 advertising.apple.com

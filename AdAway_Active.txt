@@ -261,7 +261,6 @@
 0.0.0.0 events-collector-api.viacom.tech
 0.0.0.0 rdi.da1.vip.prod.criteo.com
 0.0.0.0 api.sail-personalize.com
-0.0.0.0 conduit.redfast.com
 0.0.0.0 l.hrzn-nxt.com
 0.0.0.0 a50.g2.akamai.net
 0.0.0.0 analytics-listener.trafficmanager.net
@@ -305,7 +304,6 @@
 0.0.0.0 agent.tamedia.com.tw
 0.0.0.0 app-sj21.marketo.com
 0.0.0.0 adx.lsosad.com
-0.0.0.0 kaltura.com
 0.0.0.0 wigetmedia.com
 0.0.0.0 usermatch.targeting.unrulymedia.com
 0.0.0.0 iqzn-useast.adnxs.com
@@ -1269,7 +1267,6 @@
 0.0.0.0 sync.adkernel.com
 0.0.0.0 betrad.com
 0.0.0.0 cricket.mobileposse.com
-0.0.0.0 redfast.com
 0.0.0.0 script.tapfiliate.com
 0.0.0.0 cfimage.moengage.com
 0.0.0.0 pippio.com
@@ -1757,7 +1754,6 @@
 0.0.0.0 b.videoamp.com
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 images.3lift.com
-0.0.0.0 disneyplus.com
 0.0.0.0 swiftype.com
 0.0.0.0 dealerdotcomdisplay576919175878.s.moatpixel.com
 0.0.0.0 ads.trafficjunky.net
@@ -1811,7 +1807,6 @@
 0.0.0.0 thrtle.com
 0.0.0.0 vid.connatix.com
 0.0.0.0 eus.rubiconproject.com.edgekey.net
-0.0.0.0 nmtracking.netflix.com
 0.0.0.0 api.wootric.com.herokudns.com
 0.0.0.0 sstats.adobe.com
 0.0.0.0 appflood.com
@@ -2684,7 +2679,6 @@
 0.0.0.0 ads.pinger.com
 0.0.0.0 rlog.popin.cc
 0.0.0.0 notify.bugsnag.appstore.a2z.com
-0.0.0.0 presentationtracking.netflix.com
 0.0.0.0 mobileads.indiatimes.com
 0.0.0.0 abtest.alibaba.com
 0.0.0.0 dice.com
@@ -3093,7 +3087,6 @@
 0.0.0.0 online.mobify.net
 0.0.0.0 widgets.mgid.com
 0.0.0.0 dl.ijinshan.com
-0.0.0.0 hulu.com
 0.0.0.0 info.static.startappservice.com
 0.0.0.0 yax-winners-us-west-2-rtb.adroll.com
 0.0.0.0 nbcuni.com
@@ -3235,7 +3228,6 @@
 0.0.0.0 vap3sfo1.lijit.com
 0.0.0.0 southwestairlines.tt.omtrdc.net
 0.0.0.0 analytics.tdameritrade.com
-0.0.0.0 github.com
 0.0.0.0 tag.yieldoptimizer.com
 0.0.0.0 rts.mobula.sdk.duapps.com
 0.0.0.0 ads.heyzap.com
@@ -3336,7 +3328,6 @@
 0.0.0.0 collector.cint.com
 0.0.0.0 foxsports.com
 0.0.0.0 static.leaddyno.com
-0.0.0.0 sanalytics.disneyplus.com
 0.0.0.0 fdfe4ed62699.cdn4.forter.com
 0.0.0.0 mob.com
 0.0.0.0 a.optnmnstr.com
@@ -3814,7 +3805,6 @@
 0.0.0.0 cdn.adtrue.com
 0.0.0.0 a3543.casalemedia.com
 0.0.0.0 onrt-stsdk.vivo.com.cn
-0.0.0.0 analytics.kaltura.com
 0.0.0.0 apc.socdm.com
 0.0.0.0 sjrtp2.marketo.com
 0.0.0.0 wv.inner-active.mobi
@@ -4499,7 +4489,6 @@
 0.0.0.0 collect12348wrdvs.deltadna.net
 0.0.0.0 uc.cn
 0.0.0.0 cdn-as.jivox.com
-0.0.0.0 netflix.com
 0.0.0.0 masoffer.net
 0.0.0.0 thumbnail.smartnews-ads.com
 0.0.0.0 hybridclient.naiadsystems.com
@@ -4895,7 +4884,6 @@
 0.0.0.0 ads.snapchat.com
 0.0.0.0 analytics.shareaholic.com
 0.0.0.0 d.adx.io
-0.0.0.0 ichnaea-web.netflix.com
 0.0.0.0 stats.zotabox.com
 0.0.0.0 sdk.appbrain.com
 0.0.0.0 images.informatm.com
@@ -4999,7 +4987,6 @@
 0.0.0.0 mc-kzgvx04-jk8n38gyn7s08m1d8.device.marketingcloudapis.com
 0.0.0.0 affluent.io
 0.0.0.0 ads.justpremium.com
-0.0.0.0 t2.hulu.com
 0.0.0.0 vpaid.doubleverify.com
 0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 tags.t.tailtarget.com
