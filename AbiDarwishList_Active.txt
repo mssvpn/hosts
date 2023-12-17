@@ -583,7 +583,6 @@
 0.0.0.0 torr.by
 0.0.0.0 alpharatio.cc
 0.0.0.0 docuwiki.net
-0.0.0.0 fast.com
 0.0.0.0 torrentmovies.co
 0.0.0.0 soap2day.com
 0.0.0.0 torrents-proxy.com
