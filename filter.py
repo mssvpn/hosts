@@ -2,7 +2,7 @@ import os
 
 def filter_active_files(folder_path):
     # Step 1: List all files in the folder
-    file_list = [f for f in os.listdir(folder_path) if f.endswith("_Active.txt")]
+    file_list = [f for f in os.listdir(folder_path) if "_Active.txt" in f]
 
     # Step 2: Read the contents of the whitelist file
     with open("whitelist.txt", "r") as whitelist_file:
