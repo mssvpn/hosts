@@ -961,7 +961,6 @@
 0.0.0.0 mkt649.com
 0.0.0.0 integrations.albacross.com
 0.0.0.0 benchmarked.mask.wtf.la
-0.0.0.0 adservice.google.com.ar
 0.0.0.0 rootalk.com
 0.0.0.0 track.lemmatechnologies.com
 0.0.0.0 wokos.com
@@ -1827,7 +1826,6 @@
 0.0.0.0 mkt3626.com
 0.0.0.0 mediaplex.com
 0.0.0.0 mkt3471.com
-0.0.0.0 adservice.google.com.gh
 0.0.0.0 cdn-adspot.tfgco.com
 0.0.0.0 gaber.phost.ws
 0.0.0.0 hyle.info
@@ -2447,7 +2445,6 @@
 0.0.0.0 brokerhide.co.cc
 0.0.0.0 syndication3.traffichaus.com
 0.0.0.0 config.samsungads.com
-0.0.0.0 adservice.google.com.nf
 0.0.0.0 geken.com
 0.0.0.0 arivforex.co.cc
 0.0.0.0 next.chartboost.com
@@ -2972,7 +2969,6 @@
 0.0.0.0 588ef9ab4a513c0010230b9c.tracker.adotmob.com
 0.0.0.0 geoip.fing.io
 0.0.0.0 th-pmdplus.cdn.videoplaza.tv
-0.0.0.0 adservice.google.com.br
 0.0.0.0 torrentfreak.com
 0.0.0.0 mkt1424.com
 0.0.0.0 germanwearde.widget.criteo.com
@@ -4289,7 +4285,6 @@
 0.0.0.0 luckydraws.co.cc
 0.0.0.0 browse007.com
 0.0.0.0 lifeandbreath.info
-0.0.0.0 adservice.google.com.lb
 0.0.0.0 jelmolishopch.widget.criteo.com
 0.0.0.0 spaceports.com
 0.0.0.0 ecruises.touchcommerce.com
@@ -4583,7 +4578,6 @@
 0.0.0.0 rebrandlydomain.com
 0.0.0.0 adminv2.inq.com
 0.0.0.0 www.intellectads.co.in
-0.0.0.0 adservice.google.com.mt
 0.0.0.0 totalupload.com
 0.0.0.0 aggressive-shape.co.cc
 0.0.0.0 easywithdrawal.com
@@ -4806,7 +4800,6 @@
 0.0.0.0 surf.foodlily.com
 0.0.0.0 mgepodownload.mediatek.com
 0.0.0.0 decide.mixpanel.com
-0.0.0.0 adservice.google.com.ly
 0.0.0.0 ns6.criteo.com
 0.0.0.0 mkt5641.com
 0.0.0.0 adservice.google.ps
@@ -5116,7 +5109,6 @@
 0.0.0.0 spiderhole.co.cc
 0.0.0.0 proxybestinsurance.co.cc
 0.0.0.0 blockskip.com
-0.0.0.0 adservice.google.com.mm
 0.0.0.0 scubaplanet.de
 0.0.0.0 kip6.com
 0.0.0.0 mkt4616.com
@@ -5619,7 +5611,6 @@
 0.0.0.0 alphaanime.edwardk.info
 0.0.0.0 data-cl-in.ads.oppomobile.com
 0.0.0.0 m33t.us
-0.0.0.0 ads.google.com
 0.0.0.0 marketplace.trafficjunky.net
 0.0.0.0 mkt9295.com
 0.0.0.0 tunnelborder.co.cc
@@ -6272,7 +6263,6 @@
 0.0.0.0 hide.fh50.com
 0.0.0.0 netgofree.com
 0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
-0.0.0.0 analytics.google.com
 0.0.0.0 tokyonune.co.cc
 0.0.0.0 wateryvan.com
 0.0.0.0 thetaproxy.com
@@ -6548,7 +6538,6 @@
 0.0.0.0 mkt6827.com
 0.0.0.0 surfmenow.com
 0.0.0.0 shinzui.co.cc
-0.0.0.0 adservice.google.com.ua
 0.0.0.0 ozgurdizayn.com
 0.0.0.0 ogorod.mirtesen.ru
 0.0.0.0 monetizeplus.go2affise.com
@@ -6629,7 +6618,6 @@
 0.0.0.0 proxyweb.com.es
 0.0.0.0 nhabe.widget.criteo.com
 0.0.0.0 phproxy.org
-0.0.0.0 adservice.google.com.tr
 0.0.0.0 www.impactradius-tag.com
 0.0.0.0 irrenhaus.dyndns.dk
 0.0.0.0 deckjockey.com
@@ -7153,7 +7141,6 @@
 0.0.0.0 iphonestorm.co.cc
 0.0.0.0 mkt3220.com
 0.0.0.0 pixel.xapads.com
-0.0.0.0 adservice.google.com.sg
 0.0.0.0 hav-t.tlnk.io
 0.0.0.0 thepiratebay.press
 0.0.0.0 mkt7620.com
@@ -7486,7 +7473,6 @@
 0.0.0.0 pixel.staticworld.net
 0.0.0.0 badtimesproxy.co.cc
 0.0.0.0 rtg014.solocpm.com
-0.0.0.0 adservice.google.com.om
 0.0.0.0 ads.youtube.com
 0.0.0.0 m.g.l.inmobicdn.net
 0.0.0.0 a.evergage.com
@@ -7710,7 +7696,6 @@
 0.0.0.0 alldebrid.com
 0.0.0.0 123123.co.il
 0.0.0.0 brollesforex.co.cc
-0.0.0.0 adservice.google.com.kh
 0.0.0.0 mkt4248.com
 0.0.0.0 customsurf.co.cc
 0.0.0.0 4ine.com
@@ -9047,7 +9032,6 @@
 0.0.0.0 ig0.mirtesen.ru
 0.0.0.0 mkt1004.com
 0.0.0.0 forex-4u2.co.cc
-0.0.0.0 adservice.google.com.bh
 0.0.0.0 mkt6428.com
 0.0.0.0 analytics.proofapi.com
 0.0.0.0 kv39.com
@@ -9169,7 +9153,6 @@
 0.0.0.0 cabb.info
 0.0.0.0 mkt5365.com
 0.0.0.0 foneforex.co.cc
-0.0.0.0 adservice.google.com
 0.0.0.0 proxydex.com
 0.0.0.0 cartoonchaos.org
 0.0.0.0 api.sonobi.com
@@ -9522,7 +9505,6 @@
 0.0.0.0 fazzoo.com
 0.0.0.0 proxybay.page
 0.0.0.0 serversystem.info
-0.0.0.0 adservice.google.com.pk
 0.0.0.0 mkt9871.com
 0.0.0.0 uk-fishingtv.videoplaza.tv
 0.0.0.0 texasbibabe.yafro.com
@@ -9874,7 +9856,6 @@
 0.0.0.0 forexinternaltransfer.co.cc
 0.0.0.0 ec.cdne.cpmstar.com
 0.0.0.0 adreporter.mediavine.com
-0.0.0.0 adservice.google.com.do
 0.0.0.0 fast-unlock.co.cc
 0.0.0.0 mkt5101.com
 0.0.0.0 www.adtdp.com
@@ -10247,7 +10228,6 @@
 0.0.0.0 cpalock.com
 0.0.0.0 mkt8427.com
 0.0.0.0 o7t.net
-0.0.0.0 adservice.google.com.bz
 0.0.0.0 coco-rico.co.cc
 0.0.0.0 xhila.com
 0.0.0.0 mkt4910.com
@@ -11022,7 +11002,6 @@
 0.0.0.0 mkt8282.com
 0.0.0.0 paxoon.com
 0.0.0.0 mkt7007.com
-0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 mkt8456.com
 0.0.0.0 onelink.appsflyer.com
 0.0.0.0 rockandrolla.co.cc
@@ -12189,7 +12168,6 @@
 0.0.0.0 ads.pdbarea.com
 0.0.0.0 marchex.evergage.com
 0.0.0.0 mkt2626.com
-0.0.0.0 adservice.google.com.tw
 0.0.0.0 klassic.info
 0.0.0.0 mkt8388.com
 0.0.0.0 mkt9411.com
@@ -13217,7 +13195,6 @@
 0.0.0.0 adsmobis.g2afse.com
 0.0.0.0 therockz.com
 0.0.0.0 wp-test.unbounce.com
-0.0.0.0 adservice.google.com.vn
 0.0.0.0 exis.info
 0.0.0.0 dk-firstimpress.videoplaza.tv
 0.0.0.0 buildingenginesdev.evergage.com
@@ -13637,7 +13614,6 @@
 0.0.0.0 filterlinks.info
 0.0.0.0 mkt6147.com
 0.0.0.0 dzaibatsu.onthe.io
-0.0.0.0 adservice.google.com.jm
 0.0.0.0 mkt8075.com
 0.0.0.0 pr9.netcoresmartech.com
 0.0.0.0 entitlements.jwplayer.com
@@ -13820,7 +13796,6 @@
 0.0.0.0 socialsurf.co.cc
 0.0.0.0 chitika.com
 0.0.0.0 proxiesloan.co.cc
-0.0.0.0 adservice.google.com.ag
 0.0.0.0 mkt8890.com
 0.0.0.0 videoadex.com
 0.0.0.0 www.firstimpression.io
@@ -13982,7 +13957,6 @@
 0.0.0.0 proxyq.com
 0.0.0.0 agentonline.info
 0.0.0.0 traffichunt.com
-0.0.0.0 adservice.google.com.na
 0.0.0.0 mkt1649.com
 0.0.0.0 www.onclickads.net
 0.0.0.0 beeswax.tapjoy.com
@@ -15726,7 +15700,6 @@
 0.0.0.0 www.ads2live.com
 0.0.0.0 it.tubeadvertising.eu
 0.0.0.0 sise.info
-0.0.0.0 adservice.google.com.ec
 0.0.0.0 log.quora.com
 0.0.0.0 linkmefree.us
 0.0.0.0 mkt313.com
@@ -15927,7 +15900,6 @@
 0.0.0.0 proxypronto.com
 0.0.0.0 de-freshmilk.cdn.videoplaza.tv
 0.0.0.0 analytics.permutive.com
-0.0.0.0 adservice.google.com.pa
 0.0.0.0 fuse.forbes.com
 0.0.0.0 mkt9901.com
 0.0.0.0 mkt5940.com
@@ -16588,7 +16560,6 @@
 0.0.0.0 soviet.mirtesen.ru
 0.0.0.0 azuforex.co.cc
 0.0.0.0 unblockerproxy.ws
-0.0.0.0 adservice.google.com.ni
 0.0.0.0 mkt8136.com
 0.0.0.0 btttag.com
 0.0.0.0 www.delivery.nbc.switchadhub.com
@@ -16885,7 +16856,6 @@
 0.0.0.0 4kolesa.mirtesen.ru
 0.0.0.0 flashlightnow.co.cc
 0.0.0.0 boltproxy.com
-0.0.0.0 adservice.google.com.kw
 0.0.0.0 static-bp.kameleoon.com
 0.0.0.0 srec7.m-pathy.com
 0.0.0.0 uk-ballstreet.videoplaza.tv
@@ -17276,7 +17246,6 @@
 0.0.0.0 clearlydrunk.com
 0.0.0.0 mkt7678.com
 0.0.0.0 unlimitedproxies.co.cc
-0.0.0.0 adservice.google.com.py
 0.0.0.0 anonima.info
 0.0.0.0 mkt8796.com
 0.0.0.0 mkt7661.com
@@ -17900,7 +17869,6 @@
 0.0.0.0 studentwant.co.cc
 0.0.0.0 bonch1.adriver.ru
 0.0.0.0 ttlou.cn
-0.0.0.0 adservice.google.com.gt
 0.0.0.0 piratebays.win
 0.0.0.0 mkt7716.com
 0.0.0.0 mkt7479.com
@@ -19235,7 +19203,6 @@
 0.0.0.0 mkt4785.com
 0.0.0.0 prfhn.com
 0.0.0.0 maly1904.cba.pl
-0.0.0.0 adservice.google.com.et
 0.0.0.0 sitepass.org
 0.0.0.0 mkt9591.com
 0.0.0.0 mkt7376.com
@@ -19457,7 +19424,6 @@
 0.0.0.0 smtrack.go2affise.com
 0.0.0.0 www.basket-torrent.webpark.pl
 0.0.0.0 mkt4433.com
-0.0.0.0 adservice.google.com.sb
 0.0.0.0 tdzvm.pw
 0.0.0.0 constellation.evergage.com
 0.0.0.0 103bees.com
@@ -19593,7 +19559,6 @@
 0.0.0.0 forum.touki.ru
 0.0.0.0 proxyanxiety.co.cc
 0.0.0.0 mkt310.com
-0.0.0.0 adservice.google.com.cu
 0.0.0.0 booztfi.widget.criteo.com
 0.0.0.0 metrics.ikea.com
 0.0.0.0 createsend24.com
@@ -19771,7 +19736,6 @@
 0.0.0.0 ms.vserv.mobi
 0.0.0.0 chukenz123.co.cc
 0.0.0.0 p3a.brave.com
-0.0.0.0 adservice.google.com.ai
 0.0.0.0 adservice.google.se
 0.0.0.0 sync.serverbid.com
 0.0.0.0 webtiner.co.cc
@@ -21659,7 +21623,6 @@
 0.0.0.0 netsneak.com
 0.0.0.0 bithq.org
 0.0.0.0 mkt7319.com
-0.0.0.0 adservice.google.com.cy
 0.0.0.0 mkt366.com
 0.0.0.0 freeonlineproxy.com
 0.0.0.0 websitetrafficspy.com
@@ -22023,7 +21986,6 @@
 0.0.0.0 www.jsonp.moatads.com
 0.0.0.0 myspaceproxy.propunk.com
 0.0.0.0 inharmonious.org
-0.0.0.0 adservice.google.com.sa
 0.0.0.0 dianomi.com
 0.0.0.0 mkt8167.com
 0.0.0.0 ptiproxy.info
@@ -22735,7 +22697,6 @@
 0.0.0.0 proxyas.tk
 0.0.0.0 ehub.info
 0.0.0.0 analytics-production.hapyak.com
-0.0.0.0 fundingchoices.google.com
 0.0.0.0 mkt5038.com
 0.0.0.0 mkt453.com
 0.0.0.0 enernoc.evergage.com
@@ -23439,7 +23400,6 @@
 0.0.0.0 ecel.info
 0.0.0.0 mkt3016.com
 0.0.0.0 creditfilm.com
-0.0.0.0 adservice.google.com.hk
 0.0.0.0 exchange.adx1.com
 0.0.0.0 advandmedia-native.rtb.adx1.com
 0.0.0.0 5proxy.com
@@ -24571,7 +24531,6 @@
 0.0.0.0 acps.info
 0.0.0.0 persuaded.mask.wtf.la
 0.0.0.0 webgames.goa.com
-0.0.0.0 adservice.google.com.bn
 0.0.0.0 afot.info
 0.0.0.0 immortalproxy.com
 0.0.0.0 polishit.co.cc
@@ -26889,7 +26848,6 @@
 0.0.0.0 ultraproxy.info
 0.0.0.0 mten12.free.fr
 0.0.0.0 usun.info
-0.0.0.0 adservice.google.com.bd
 0.0.0.0 lahm.co.cc
 0.0.0.0 extremlymtorrents.ws
 0.0.0.0 anisearch.ru
@@ -26985,7 +26943,6 @@
 0.0.0.0 ios911.com
 0.0.0.0 nort.info
 0.0.0.0 forex-apprentice.co.cc
-0.0.0.0 feedburner.google.com
 0.0.0.0 mkt755.com
 0.0.0.0 gomexforexselena.co.cc
 0.0.0.0 hide-x.com
@@ -27089,7 +27046,6 @@
 0.0.0.0 mailpolicy.eu
 0.0.0.0 ruformator.mirtesen.ru
 0.0.0.0 thepirate.host
-0.0.0.0 adservice.google.com.vc
 0.0.0.0 engineering.sharethrough.com
 0.0.0.0 www.optimonk.com
 0.0.0.0 swiss.switchadhub.com
@@ -28890,7 +28846,6 @@
 0.0.0.0 b.r10.mopub.com
 0.0.0.0 nivid.automatad.com
 0.0.0.0 triggerhost.com
-0.0.0.0 adservice.google.com.ng
 0.0.0.0 surfpain.co.cc
 0.0.0.0 nl.exoclick.com
 0.0.0.0 android-phones.co.cc
@@ -29374,7 +29329,6 @@
 0.0.0.0 mkt6698.com
 0.0.0.0 marriottde.widget.criteo.com
 0.0.0.0 mkt4961.com
-0.0.0.0 adservice.google.com.bo
 0.0.0.0 go.plush.it
 0.0.0.0 cn.criteo.com
 0.0.0.0 nezzproxy.co.cc
@@ -30359,7 +30313,6 @@
 0.0.0.0 mkt4120.com
 0.0.0.0 polojeanz.co.cc
 0.0.0.0 onlyfreshers.in
-0.0.0.0 adservice.google.com.fj
 0.0.0.0 mkt6017.com
 0.0.0.0 analytics-stage.ff.avast.com
 0.0.0.0 clouddc2.syslogagent.telemetry.microsoft.com
@@ -30499,7 +30452,6 @@
 0.0.0.0 h1.msn.com
 0.0.0.0 alpha.evergage.com
 0.0.0.0 visitortracklog.com
-0.0.0.0 id.google.com
 0.0.0.0 stealthnet.co.cc
 0.0.0.0 tn1.m-pathy.com
 0.0.0.0 et.lv
@@ -30728,7 +30680,6 @@
 0.0.0.0 test.ad.intl.xiaomi.com
 0.0.0.0 adunity.com
 0.0.0.0 mkt6678.com
-0.0.0.0 adservice.google.com.my
 0.0.0.0 mkt8363.com
 0.0.0.0 smetrics.mcafee.com
 0.0.0.0 mkt8935.com
@@ -30772,7 +30723,6 @@
 0.0.0.0 marketing.mouseflow.com
 0.0.0.0 gotovimvmeste.mirtesen.ru
 0.0.0.0 mkt404.com
-0.0.0.0 adservice.google.com.eg
 0.0.0.0 mkt4429.com
 0.0.0.0 hqsource.org
 0.0.0.0 superboats-yachts.mirtesen.ru
@@ -31014,7 +30964,6 @@
 0.0.0.0 mkt4929.com
 0.0.0.0 mkt6808.com
 0.0.0.0 5-8.us
-0.0.0.0 adservice.google.com.sv
 0.0.0.0 qubitproducts.com
 0.0.0.0 mkt4190.com
 0.0.0.0 accountrep.co.cc
@@ -32707,7 +32656,6 @@
 0.0.0.0 tunnelhost.info
 0.0.0.0 monthlytoday.co.cc
 0.0.0.0 static.runative.com
-0.0.0.0 adservice.google.com.np
 0.0.0.0 www1.ipage.com
 0.0.0.0 abroad.api.comm.intl.miui.com
 0.0.0.0 247entry.com
@@ -33074,7 +33022,6 @@
 0.0.0.0 proxyous.co.cc
 0.0.0.0 torrentseeker.com
 0.0.0.0 webgains.com
-0.0.0.0 adservice.google.com.gi
 0.0.0.0 bcp.lotamedmp.com
 0.0.0.0 art.apxor.com
 0.0.0.0 gourdmobi.com
@@ -33839,7 +33786,6 @@
 0.0.0.0 anotherprxy.co.cc
 0.0.0.0 services.adx1.com
 0.0.0.0 sdk.open.extension.getui.com
-0.0.0.0 adservice.google.com.uy
 0.0.0.0 gnof.info
 0.0.0.0 kliwonan.co.cc
 0.0.0.0 buildium.evergage.com
@@ -34229,7 +34175,6 @@
 0.0.0.0 mkt2339.com
 0.0.0.0 net.site-id.nl
 0.0.0.0 bnbteasytracker.sourceforge.net
-0.0.0.0 mail-ads.google.com
 0.0.0.0 extratorrent.si
 0.0.0.0 fregate.co.cc
 0.0.0.0 karc.info
@@ -34539,7 +34484,6 @@
 0.0.0.0 app.atlassolutions.com
 0.0.0.0 sitebypassbrowser.co.cc
 0.0.0.0 x-torrent.net
-0.0.0.0 adservice.google.com.mx
 0.0.0.0 oifn.info
 0.0.0.0 samsung-galaxy.co.cc
 0.0.0.0 sockstoday.com
@@ -34584,7 +34528,6 @@
 0.0.0.0 mkt1239.com
 0.0.0.0 torrent-damage.net
 0.0.0.0 protectedaccess.info
-0.0.0.0 adservice.google.com.af
 0.0.0.0 adsdk.yandex.ru
 0.0.0.0 optout.betrad.com
 0.0.0.0 mkt4559.com
@@ -34815,7 +34758,6 @@
 0.0.0.0 newfast.info
 0.0.0.0 mkt2417.com
 0.0.0.0 dawandade.widget.criteo.com
-0.0.0.0 doubleclickbygoogle.com
 0.0.0.0 fatimages.com
 0.0.0.0 wunza.ws
 0.0.0.0 dubaiproxy.com
@@ -36085,7 +36027,6 @@
 0.0.0.0 myspacepass.blogspot.com
 0.0.0.0 bellsouth.touchcommerce.com
 0.0.0.0 all4myspace.com
-0.0.0.0 adservice.google.com.pr
 0.0.0.0 u2.outbrain.com
 0.0.0.0 burovyestanki.mirtesen.ru
 0.0.0.0 netstad.com
@@ -37374,7 +37315,6 @@
 0.0.0.0 surfmasters.co.cc
 0.0.0.0 sa0.tuisong.baidu.com
 0.0.0.0 sdworldtippsit.xoom.it
-0.0.0.0 adservice.google.com.tj
 0.0.0.0 angelfreesurf.co.cc
 0.0.0.0 competition-freedom.co.cc
 0.0.0.0 torrentsnack.com
@@ -38918,7 +38858,6 @@
 0.0.0.0 mab.chartbeat.com
 0.0.0.0 sip.revcontent.com
 0.0.0.0 qbcv.com
-0.0.0.0 adservice.google.com.co
 0.0.0.0 starcrumb.com
 0.0.0.0 socksproxy.com
 0.0.0.0 vargtimmen.co.cc
@@ -39201,7 +39140,6 @@
 0.0.0.0 a6k.info
 0.0.0.0 pdaorg.adspeed.net
 0.0.0.0 mkt8833.com
-0.0.0.0 adservice.google.com.qa
 0.0.0.0 papollo.com
 0.0.0.0 unblock365.com
 0.0.0.0 dellshops.co.cc
@@ -39780,7 +39718,6 @@
 0.0.0.0 samsungepic.co.cc
 0.0.0.0 proxied.org
 0.0.0.0 ybinst0.ec.yimg.com
-0.0.0.0 adservice.google.com.sl
 0.0.0.0 feb02-proxy.co.cc
 0.0.0.0 idvert.cz
 0.0.0.0 unlock-sites.co.cc
@@ -40701,7 +40638,6 @@
 0.0.0.0 new-proxy-site.co.cc
 0.0.0.0 mkt9457.com
 0.0.0.0 psankei.chartbeat.net
-0.0.0.0 adservice.google.com.pg
 0.0.0.0 terresdaventurefr.widget.criteo.com
 0.0.0.0 mkt2480.com
 0.0.0.0 extraip.com
@@ -40818,7 +40754,6 @@
 0.0.0.0 tracker.ololosh.space
 0.0.0.0 browsehide.com
 0.0.0.0 counter14.bravenet.com
-0.0.0.0 adservice.google.com.ph
 0.0.0.0 fkfg.com
 0.0.0.0 torrents.artixlinux.org
 0.0.0.0 widget.us.criteo.com
@@ -40845,7 +40780,6 @@
 0.0.0.0 jioads.akamaized.net
 0.0.0.0 domik5a16.mirtesen.ru
 0.0.0.0 catalog.am-native.hb.adx1.com
-0.0.0.0 adservice.google.com.pe
 0.0.0.0 mstr.sharethrough.com
 0.0.0.0 miui2api.smi2.net
 0.0.0.0 imp.vrtzads.com
